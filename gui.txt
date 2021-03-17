@@ -1,0 +1,18 @@
+From ID: 00001
+
+Date: March 10th 2021
+
+Title: Sample GUI TXT File
+
+Summary: This is a sample text file will that will display your .txt file contents.
+
+URL: N/A
+
+New changes to save!
+
+Add new changes!
+
+
+
+
+
